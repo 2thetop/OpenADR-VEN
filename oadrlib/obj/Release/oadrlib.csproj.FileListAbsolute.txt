@@ -1,0 +1,4 @@
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\bin\Release\oadr.lib.dll
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\bin\Release\oadr.lib.pdb
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\obj\Release\oadr.lib.dll
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\obj\Release\oadr.lib.pdb

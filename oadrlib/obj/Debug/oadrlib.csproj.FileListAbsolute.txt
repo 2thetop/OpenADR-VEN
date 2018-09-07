@@ -1,0 +1,5 @@
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\bin\Debug\oadr.lib.dll
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\bin\Debug\oadr.lib.pdb
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\obj\Debug\oadrlib.csprojResolveAssemblyReference.cache
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\obj\Debug\oadr.lib.dll
+G:\Scaling_VEN\OpenADR_nonMod\OpenADR-VEN-C#\oadrlib\obj\Debug\oadr.lib.pdb
